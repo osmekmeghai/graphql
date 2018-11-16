@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Osmek Meghai",
+      "email": "jdoe@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Debby Meghai",
+      "email": "dm@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "3",
+      "name": "jemmy Meghai",
+      "email": "jm@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "4",
+      "name": "john Meghai",
+      "email": "jom@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "5",
+      "name": "james Meghai",
+      "email": "jam@gmail.com",
+      "age": 35
+    },
+    {
+      "name": "Harry Potter",
+      "email": "harry@gmail.com",
+      "age": 27,
+      "id": "t0Om2yX"
+    }
+  ]
+}
